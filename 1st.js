@@ -1,4 +1,4 @@
-const text = 'Some special words for you...';
+const text = "I'm sorry for my mistake🤧.I have something special for you🤗."
 const typingElement = document.getElementById("typing");
 if (typingElement) {
   let i = 0;
