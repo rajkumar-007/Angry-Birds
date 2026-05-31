@@ -4,7 +4,7 @@ document.addEventListener("click", function(e){
 
         let heart = document.createElement("div");
         heart.className = "heart";
-        heart.innerHTML = "❤️";
+        heart.innerHTML = "💖";
 
         heart.style.left =
             (e.clientX + Math.random()*100 - 50) + "px";
