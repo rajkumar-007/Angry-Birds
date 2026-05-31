@@ -1,4 +1,4 @@
-const text = `To My Angry Bird👻,
+const text = `To my Angry Bird👻,
 You make my day brighter with your smile, kindness, and love❤️.
 Having you in my life is a blessing, and I cherish every moment we share☘️.
 You will always hold a special place in my heart 🤗.
